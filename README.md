@@ -1,2 +1,2 @@
-# perfect-balance.tech
+# perfectbalance.cc
 creation of my personal projects portfolio site
