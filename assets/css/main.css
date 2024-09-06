@@ -2164,7 +2164,7 @@ input, select, textarea {
 
 
 	#nav-2 ul li {
-		list-style: none;
+		list-style-type: none;
 		padding-left: 0;
 		margin-bottom: 0;
 	}
